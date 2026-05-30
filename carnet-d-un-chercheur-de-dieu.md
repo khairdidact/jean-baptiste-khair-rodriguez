@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Carnet d'un chercheur de Dieu
+layout: litteraire
+title: Carnet d’un chercheur de Dieu
 date: 2026-05-30
 ---
 
