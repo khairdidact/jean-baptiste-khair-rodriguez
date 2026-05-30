@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: litteraire
 title: Accueil
 ---
 
-Bienvenue dans mon jardin lyrique.  
-Ici, chaque texte est une fenêtre ouverte.
+Bienvenue dans mon jardin lyrique…
