@@ -10,7 +10,7 @@ Le malin aux abois.
 
 Il grouille de mille formes.  
 J'étais si bien pourtant.  
-Comme si, sous chloroform,  
+Comme si, sous chloroforme,  
 Mourrait souffrance et temps.
 
 Entraînée par son corps,  
