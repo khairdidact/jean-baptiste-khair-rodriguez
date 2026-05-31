@@ -4,6 +4,7 @@ title: Sainte matière
 ---
 
 Le corps n'est pas un habit sale,  
-Ce n'est pas même un habit.  
+Ce n'est pas même un habit, non.  
 Il est médium philosophale,  
-Acte saint, non lubie.
+Un acte saint, pas une lubie.
+
