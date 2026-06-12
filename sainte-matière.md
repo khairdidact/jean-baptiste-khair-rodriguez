@@ -10,4 +10,5 @@ Un acte bon, un maître don.
 
 Du façonnage de la poussière  
 Mélant la pneuma au soma  
-À la Parole nourricière
+À la Parole nourricière  
+Se faisant chair 
