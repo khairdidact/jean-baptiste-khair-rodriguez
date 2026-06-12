@@ -9,4 +9,5 @@ Il est médium philosophale,
 Un acte bon, un maître don.
 
 Du façonnage de la poussière  
-Mélant la pneuma au soma,  
+Mélant la pneuma au soma  
+À la Parole nourricière
